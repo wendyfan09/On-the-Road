@@ -1,0 +1,10 @@
+PODS:
+  - BSImagePicker (0.7)
+
+DEPENDENCIES:
+  - BSImagePicker (~> 0.7)
+
+SPEC CHECKSUMS:
+  BSImagePicker: 85c0b89cc3eec3ca994dfc9ae43a9fe0e0c18174
+
+COCOAPODS: 0.35.0
